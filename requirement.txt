@@ -1,5 +1,5 @@
-pandas
 streamlit
-streamlit-option-menu
+pandas
 matplotlib
 seaborn
+streamlit-option-menu
