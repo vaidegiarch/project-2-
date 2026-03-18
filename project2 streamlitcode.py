@@ -1,9 +1,4 @@
-import streamlit as st
-import pandas as pd
-import sqlite3
-import matplotlib.pyplot as plt
-import seaborn as sns
-from streamlit_option_menu import option_menu
+
 
 # ---------------- MENU ----------------
 selected = option_menu(
