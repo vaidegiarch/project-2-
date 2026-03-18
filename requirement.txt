@@ -1,6 +1,5 @@
-streamlit as st
-pandas as pd
-
-matplotlib.pyplot 
-seaborn 
-
+pandas
+streamlit
+streamlit-option-menu
+matplotlib
+seaborn
