@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from streamlit_option_menu import option_menu
 
-
 # ---------------- MENU ----------------
 selected = option_menu(
     menu_title=None,
